@@ -119,6 +119,12 @@ td
 	float: right;
 }
 
+.left, .right {
+	font-size: 150% ;
+	margin-top: -7px;
+	margin-bottom: -15px;
+}
+
 /*----------------------*/
 
 .selected

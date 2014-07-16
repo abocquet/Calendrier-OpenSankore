@@ -55,13 +55,13 @@ var currentDate = new Date();
 var buttons = {
 
 	mois:{
-		previous: $("#mois .foundicon-left-arrow"),
-		next: $("#mois .foundicon-right-arrow")
+		previous: $("#mois .left"),
+		next: $("#mois .right")
 	},
 
 	annee:{
-		previous: $("#annee .foundicon-left-arrow"),
-		next: $("#annee .foundicon-right-arrow")
+		previous: $("#annee .left"),
+		next: $("#annee .right")
 	},
 
 	today: $('#today')
